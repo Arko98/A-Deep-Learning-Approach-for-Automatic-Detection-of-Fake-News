@@ -27,6 +27,9 @@ the applicability of our systems across the domains.
 |Celebrity|Proposed Model2|79|
 |Celebrity|(Perez-Rosas et al. 2018) Linear SVM|76|
 
+# Reads
+Read the paper at : https://arxiv.org/abs/2005.04938
+
 # Citation
 For Research Puropose cite the following:
 ```
