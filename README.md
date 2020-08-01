@@ -33,11 +33,20 @@ Read the paper at : https://arxiv.org/abs/2005.04938
 # Citation
 For Research Puropose cite the following:
 ```
-@article{Saikh2020ADL,
-  title={A Deep Learning Approach for Automatic Detection of Fake News},
-  author={Tanik Saikh and Arkadipta De and Asif Ekbal and Pushpak Bhattacharyya},
-  journal={ArXiv},
-  year={2020},
-  volume={abs/2005.04938}
+@article{DBLP:journals/corr/abs-2005-04938,
+  author    = {Tanik Saikh and
+               Arkadipta De and
+               Asif Ekbal and
+               Pushpak Bhattacharyya},
+  title     = {A Deep Learning Approach for Automatic Detection of Fake News},
+  journal   = {CoRR},
+  volume    = {abs/2005.04938},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2005.04938},
+  archivePrefix = {arXiv},
+  eprint    = {2005.04938},
+  timestamp = {Thu, 14 May 2020 16:56:02 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2005-04938.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
