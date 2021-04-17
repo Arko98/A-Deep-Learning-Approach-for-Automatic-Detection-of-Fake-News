@@ -1,5 +1,11 @@
 # A Deep Learning Approach for Automatic Detection of Fake News
 Research Paper Published at ICON 2019, indexed in ACL Anthology by **Tanik Saikh**, **Arkadipta De**, **Asif Ekbal**, **Pushpak Bhattacharyya**
+[![Others](https://img.shields.io/badge/Keras-1.8.1-red)](https://keras.io)
+[![Others](https://img.shields.io/badge/Tensorflow-(Stable)1.11.0-orange)](https://www.tensorflow.org/)
+[![Others](https://img.shields.io/badge/Python-3.6-green)](https://www.python.org/)
+
+# Proceedings
+**16th International Conference on Natural Language Processing 2021** - https://ltrc.iiit.ac.in/icon2019/icon2019proceedings.pdf
 
 # Introduction
 Fake news detection is a very prominent and
