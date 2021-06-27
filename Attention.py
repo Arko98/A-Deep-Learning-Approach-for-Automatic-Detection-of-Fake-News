@@ -7,7 +7,6 @@ MIT License Protected (Using for Research Purpose without Citation is punishable
 """
 
 import keras
-import Attention 
 from keras.engine.topology import Layer, Input
 from keras import backend as K
 from keras import initializers
