@@ -20,6 +20,10 @@ from keras.utils import to_categorical
 from keras import backend as K
 from keras import initializers
 
+Max_Title_Length = # Define Maximum Title Length of The Dataset
+Max_Content_Length = # Define Maximum Content Length of The Dataset
+vector_size = # Define Embedding Vector Size for each word embedding (e.g 300 if you use FastText Embeddings) 
+
 input_title = Input(shape = (Max_Title_Length,vector_size,), name = 'input_title')
 input_content = Input(shape = (Max_Content_Length,vector_size,), name = 'input_content')
 
